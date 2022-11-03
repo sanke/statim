@@ -1,0 +1,14 @@
+[Oo]bj/
+[Bb]in/
+.nuget/
+.idea/
+.vs/
+_ReSharper.*
+packages/
+artifacts/
+*.DotSettings
+*.user
+*.suo
+*.userprefs
+*DS_Store
+*.sln.ide
